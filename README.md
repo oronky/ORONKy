@@ -1,7 +1,7 @@
 # Hi I'm Oronk 👋
 
 ### About me
-I am doing an apprenticeship as a computer scientist.
+I am doing an apprentice as a computer scientist.
 Here I have my work from school and my own projects.
 
 ### Social media
